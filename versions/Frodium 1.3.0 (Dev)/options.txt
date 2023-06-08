@@ -1,0 +1,5 @@
+
+
+lang:en_us
+
+fullscreen:false
