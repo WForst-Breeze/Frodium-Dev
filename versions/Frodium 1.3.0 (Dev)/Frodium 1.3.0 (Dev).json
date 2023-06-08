@@ -185,7 +185,7 @@
       "url": "https://piston-data.mojang.com/v1/objects/15e61168fd24c7950b22cd3b9e771a7ce4035b41/server.txt"
     }
   },
-  "id": "Frodium 1.3.0.a1",
+  "id": "Frodium 1.3.0 (Dev)",
   "javaVersion": {
     "component": "java-runtime-gamma",
     "majorVersion": 17
