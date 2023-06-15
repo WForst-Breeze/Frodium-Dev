@@ -1,16 +1,20 @@
-[21:18:29] [main/INFO]: Loading Minecraft 1.20 with Fabric Loader 0.14.21
-[21:18:29] [ForkJoinPool-1-worker-10/WARN]: Mod getittogetherdrops uses the version fabric-1.20-1.3 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:18:29] [ForkJoinPool-1-worker-13/WARN]: Mod highlight uses the version unspecified which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'unspecified'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:18:29] [ForkJoinPool-1-worker-16/WARN]: Mod ambientsounds uses the version unspecified which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'unspecified'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[21:18:29] [main/WARN]: Warnings were found!
+[22:25:12] [main/INFO]: Loading Minecraft 1.20 with Fabric Loader 0.14.21
+[22:25:13] [ForkJoinPool-1-worker-5/WARN]: Mod getittogetherdrops uses the version fabric-1.20-1.3 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'fabric'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:25:13] [ForkJoinPool-1-worker-8/WARN]: Mod highlight uses the version unspecified which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'unspecified'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:25:13] [ForkJoinPool-1-worker-14/WARN]: Mod ambientsounds uses the version unspecified which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'unspecified'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:25:13] [main/WARN]: Warnings were found!
  - Mod 'OptiGUI' (optigui) 2.1.1 recommends any version of animatica, which is missing!
 	 - You should install any version of animatica for the optimal experience.
-[21:18:29] [main/INFO]: Loading 210 mods:
+[22:25:13] [main/INFO]: Loading 214 mods:
 	- advancementscreenshot 4.1
 	- alternate-current 1.6.0
 	- ambientsounds unspecified
 	- appleskin 2.5.0+mc1.20
 	- architectury 9.0.7
+	- authme 7.0.1+1.20
+	   |-- fabric-api-base 0.4.29+b04edc7a27
+	   |-- fabric-lifecycle-events-v1 2.2.20+b3afc78b27
+	   \-- fabric-resource-loader-v0 0.11.7+f7923f6d27
 	- axolotlitemfix 1.1.6
 	- balm-fabric 7.0.2
 	- bee_info 1.1.1
@@ -18,6 +22,7 @@
 	- blur 3.1.0
 	   |-- midnightlib 1.4.1
 	   \-- satin 1.13.0
+	- bookshelf 19.0.15
 	- bsvsb 3.0.3
 	- capes 1.5.2+1.20
 	   \-- com_github_llamalad7_mixinextras 0.2.0-beta.8
@@ -54,6 +59,7 @@
 	- easyelytratakeoff 4.0
 	- easymagic 7.0.0
 	- elytra_physics 1.3-1.20
+	- enchdesc 16.0.1
 	- entity_model_features 0.2.10
 	- entity_texture_features 4.4.4
 	   \-- org_apache_httpcomponents_httpmime 4.5.10
@@ -148,7 +154,6 @@
 	- languagereload 1.5.7+1.20
 	- libipn 3.0.2
 	- litematica 0.14.3-nyan.1
-	- litematica_printer 3.2
 	- lithium 0.11.2
 	- magiclib 0.7.336+05361cf-stable
 	   \-- magiclib-1_20 0.7.336+05361cf-stable
@@ -200,6 +205,7 @@
 	   \-- kirin 1.15.0
 	- puzzleslib 7.0.3
 	- reeses-sodium-options 1.5.1+mc1.20-build.74
+	- reimaginedmenus 1.0.3-1.20.x
 	- reputation 0.2.3+jade.1.20
 	- rightclickharvest 3.2.2+1.19.x-1.20-fabric
 	- roughlyenoughitems 12.0.622
@@ -220,6 +226,7 @@
 	- sound_physics_remastered 1.20-1.1.1
 	- starlight 1.1.2+fabric.dbc156f
 	- status-effect-bars 1.0.3
+	- tipsmod 11.0.1
 	- trade_cycling 1.19.4-1.0.5
 	- travelersbackpack 1.20-9.0.1
 	- tweakermore 3.13.0
@@ -242,26 +249,26 @@
 	   |-- com_akuleshov7_ktoml-core-jvm 0.4.1
 	   |-- dev_isxander_settxi_settxi-core 2.10.6
 	   \-- dev_isxander_settxi_settxi-kotlinx-serialization 2.10.6
-[21:18:30] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/sxcmx/Documents/GitHub/Frodium-Dev/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
-[21:18:30] [main/INFO]: Compatibility level set to JAVA_17
-[21:18:30] [main/WARN]: Reference map 'axolotl-item-fix-refmap.json' for axolotlitemfix.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:18:31] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
-[21:18:31] [main/INFO]: Loaded configuration file for ModernFix: 43 options available, 0 override(s) found
-[21:18:31] [main/INFO]: Applying Nashorn fix
-[21:18:31] [main/WARN]: [Satin] Iris is present, custom block renders will not work
-[21:18:31] [main/WARN]: Reference map 'smoothswapping-fabric-refmap.json' for smoothswapping.mixins.json could not be read. If this is a development environment you can ignore this message
-[21:18:31] [main/INFO]: Loaded configuration file for Sodium: 33 options available, 3 override(s) found
-[21:18:31] [main/INFO]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
-[21:18:32] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
-[21:18:32] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
-[21:18:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer)
-[21:18:33] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer)
-[21:18:33] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[21:18:33] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinCuboid' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
-[21:18:33] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinModelPart' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
-[21:18:33] [main/WARN]: Force-disabling mixin 'features.gui.font.MixinGlyphRenderer' as rule 'mixin.features.gui.font' (added by mods [iris]) disables it and children
-[21:18:33] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
-[21:18:33] [main/ERROR]: imblocker.mixins.json:MixinAbstractButtonWidget from mod imblocker: Super class 'net.minecraft.class_332' of MixinAbstractButtonWidget was not found in the hierarchy of target class 'net/minecraft/class_339'
+[22:25:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/C:/Users/sxcmx/Documents/GitHub/Frodium-Dev/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[22:25:13] [main/INFO]: Compatibility level set to JAVA_17
+[22:25:14] [main/WARN]: Reference map 'axolotl-item-fix-refmap.json' for axolotlitemfix.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:25:14] [main/INFO]: Loaded configuration file for Lithium: 115 options available, 1 override(s) found
+[22:25:15] [main/INFO]: Loaded configuration file for ModernFix: 43 options available, 0 override(s) found
+[22:25:15] [main/INFO]: Applying Nashorn fix
+[22:25:15] [main/WARN]: [Satin] Iris is present, custom block renders will not work
+[22:25:15] [main/WARN]: Reference map 'smoothswapping-fabric-refmap.json' for smoothswapping.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:25:15] [main/INFO]: Loaded configuration file for Sodium: 33 options available, 3 override(s) found
+[22:25:15] [main/INFO]: Loaded configuration file for Sodium Extra: 28 options available, 0 override(s) found
+[22:25:15] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[22:25:16] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[22:25:16] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer)
+[22:25:16] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/pipeline/BlockRenderer)
+[22:25:16] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[22:25:16] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinCuboid' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
+[22:25:16] [main/WARN]: Force-disabling mixin 'features.entity.fast_render.MixinModelPart' as rule 'mixin.features.entity.fast_render' (added by mods [iris]) disables it and children
+[22:25:16] [main/WARN]: Force-disabling mixin 'features.gui.font.MixinGlyphRenderer' as rule 'mixin.features.gui.font' (added by mods [iris]) disables it and children
+[22:25:16] [main/WARN]: Force-disabling mixin 'features.sky.MixinWorldRenderer' as rule 'mixin.features.sky' (added by mods [iris]) disables it and children
+[22:25:16] [main/ERROR]: imblocker.mixins.json:MixinAbstractButtonWidget from mod imblocker: Super class 'net.minecraft.class_332' of MixinAbstractButtonWidget was not found in the hierarchy of target class 'net/minecraft/class_339'
 org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super class 'net.minecraft.class_332' of MixinAbstractButtonWidget was not found in the hierarchy of target class 'net/minecraft/class_339'
 	at org.spongepowered.asm.mixin.transformer.MixinInfo$SubType$Standard.validate(MixinInfo.java:594) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
 	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:328) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
@@ -294,68 +301,85 @@ org.spongepowered.asm.mixin.transformer.throwables.InvalidMixinException: Super 
 	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
 	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
-[21:18:33] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
-[21:18:33] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
-[21:18:33] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
-[21:18:33] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
-[21:18:36] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
-[21:18:36] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
-[21:18:36] [main/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.class_2540
-[21:18:36] [main/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to md963bfd$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
-[21:18:36] [main/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to md963bfd$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
-[21:18:36] [main/WARN]: Method overwrite conflict for method_5800 in carpet-fixes.mixins.json:itemFixes.ItemEntity_lightningKillsDropsMixin from mod carpet-fixes, previously written by carpet.mixins.ItemEntityMixin. Skipping method.
-[21:18:39] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
-[21:18:39] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
-[21:18:39] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
-[21:18:39] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
-[21:18:39] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
-[21:18:39] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
-[21:18:39] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
-[21:18:39] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
-[21:18:39] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
-[21:18:40] [main/INFO]: Bypassed Mojang DFU
-[21:18:41] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.class_3244
-[21:18:41] [main/WARN]: @Redirect conflict. Skipping carpet-extra.mixins.json:ServerPlayNetworkHandlerMixin from mod carpet-extra->@Redirect::carpetextra_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1000, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
-[21:18:41] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
-[21:18:41] [main/WARN]: Method overwrite conflict for getConnection in krypton.mixins.json:shared.network.util.ServerPlayNetworkHandlerAccessor from mod krypton, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
-[21:18:41] [main/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
-[21:18:41] [main/ERROR]: Mixin apply for mod litematica_printer failed litematica-printer-implementation.mixins.json:MixinClientPlayerEntity from mod litematica_printer -> net.minecraft.class_746: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException Critical injection failure: @Inject annotation on openEditSignScreen could not find any targets matching 'Lnet/minecraft/class_746;method_7311(Lnet/minecraft/class_2625;)V' in net.minecraft.class_746. Using refmap v1_19_4-refmap.json [PREINJECT Applicator Phase -> litematica-printer-implementation.mixins.json:MixinClientPlayerEntity from mod litematica_printer -> Prepare Injections ->  -> handler$fgh000$litematica_printer$openEditSignScreen(Lnet/minecraft/class_2625;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V -> Parse]
-org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Critical injection failure: @Inject annotation on openEditSignScreen could not find any targets matching 'Lnet/minecraft/class_746;method_7311(Lnet/minecraft/class_2625;)V' in net.minecraft.class_746. Using refmap v1_19_4-refmap.json [PREINJECT Applicator Phase -> litematica-printer-implementation.mixins.json:MixinClientPlayerEntity from mod litematica_printer -> Prepare Injections ->  -> handler$fgh000$litematica_printer$openEditSignScreen(Lnet/minecraft/class_2625;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V -> Parse]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.validateTargets(InjectionInfo.java:656) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.findTargets(InjectionInfo.java:587) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:330) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:316) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:308) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo.<init>(CallbackInjectionInfo.java:46) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at jdk.internal.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source) ~[?:?]
-	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo$InjectorEntry.create(InjectionInfo.java:149) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:708) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1329) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:1053) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:395) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
-	at net.minecraft.class_2591.<clinit>(class_2591.java:37) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47466(class_7923.java:129) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47485(class_7923.java:215) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47482(class_7923.java:230) ~[client-intermediary.jar:?]
-	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
-	at net.minecraft.class_7923.method_47487(class_7923.java:228) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.redirect$eeg000$fabric-registry-sync-v0$initialize(class_2966.java:565) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.method_12851(class_2966.java:69) ~[client-intermediary.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:166) ~[Frodium%201.3.0%20(Dev).jar:?]
+[22:25:16] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[22:25:16] [main/WARN]: Error loading class: me/shedaniel/rei/gui/widget/TextFieldWidget (java.lang.ClassNotFoundException: me/shedaniel/rei/gui/widget/TextFieldWidget)
+[22:25:16] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[22:25:16] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$Internal (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$Internal)
+[22:25:19] [main/WARN]: @Final field field_22786:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[22:25:19] [main/WARN]: @Final field field_33815:Ljava/util/List; in mixins.ipnext.json:MixinScreen from mod inventoryprofilesnext should be final
+[22:25:19] [main/INFO]: Mixing common.MixinFriendlyByteBuf from mixins/common/nochatreports.mixins.json into net.minecraft.class_2540
+[22:25:19] [main/INFO]: Renaming synthetic method lambda$onWriteJsonWithCodec$1(Ljava/lang/Object;Ljava/lang/String;)Lio/netty/handler/codec/EncoderException; to mde18a69$nochatreports$lambda$onWriteJsonWithCodec$1$0 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[22:25:19] [main/INFO]: Renaming synthetic method lambda$onReadJsonWithCodec$0(Ljava/lang/String;)Lio/netty/handler/codec/DecoderException; to mde18a69$nochatreports$lambda$onReadJsonWithCodec$0$1 in mixins/common/nochatreports.mixins.json:common.MixinFriendlyByteBuf from mod nochatreports
+[22:25:19] [main/WARN]: Method overwrite conflict for method_5800 in carpet-fixes.mixins.json:itemFixes.ItemEntity_lightningKillsDropsMixin from mod carpet-fixes, previously written by carpet.mixins.ItemEntityMixin. Skipping method.
+[22:25:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[22:25:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:25:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[22:25:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:25:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::negativeLimit(I)I with priority 1000
+[22:25:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:25:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:25:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:25:22] [main/WARN]: @ModifyConstant conflict. Skipping mixins.tweakeroo.json:MixinStructureBlockBlockEntity from mod tweakeroo->@ModifyConstant::overrideMaxSize(I)I with priority 999, already redirected by carpet.mixins.json:StructureBlockEntity_limitsMixin from mod carpet->@ModifyConstant::positiveLimit(I)I with priority 1000
+[22:25:23] [main/INFO]: Bypassed Mojang DFU
+[22:25:23] [main/INFO]: Mixing server.MixinServerGamePacketListenerImpl from mixins/common/nochatreports.mixins.json into net.minecraft.class_3244
+[22:25:23] [main/WARN]: @Redirect conflict. Skipping carpet-extra.mixins.json:ServerPlayNetworkHandlerMixin from mod carpet-extra->@Redirect::carpetextra_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1000, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[22:25:23] [main/WARN]: Method overwrite conflict for getConnection in fabric-networking-api-v1.mixins.json:accessor.ServerPlayNetworkHandlerAccessor from mod fabric-networking-api-v1, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[22:25:23] [main/WARN]: Method overwrite conflict for getConnection in krypton.mixins.json:shared.network.util.ServerPlayNetworkHandlerAccessor from mod krypton, previously written by carpet.mixins.ServerGamePacketListenerImpl_coreMixin. Skipping method.
+[22:25:24] [main/WARN]: @Redirect conflict. Skipping mixins.tweakeroo.json:MixinServerPlayNetworkHandler from mod tweakeroo->@Redirect::tweakeroo_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1005, already redirected by mixins.litematica.json:MixinServerPlayNetworkHandler from mod litematica->@Redirect::litematica_removeHitPosCheck(Lnet/minecraft/class_243;Lnet/minecraft/class_243;)Lnet/minecraft/class_243; with priority 1010
+[22:25:25] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[22:25:25] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[22:25:25] [main/INFO]: Vanilla bootstrap took 6077 milliseconds
+[22:25:25] [Render thread/INFO]: Launching a new process to probe the system configuration!
+[22:25:26] [Render thread/INFO]: OpenGL Vendor: NVIDIA Corporation
+[22:25:26] [Render thread/INFO]: OpenGL Renderer: NVIDIA GeForce RTX 3060/PCIe/SSE2
+[22:25:26] [Render thread/INFO]: OpenGL Version: 3.3.0 NVIDIA 522.06
+[22:25:26] [Render thread/WARN]: Enabling workaround for NVIDIA graphics drivers on Windows (issue #1486)
+[22:25:26] [Render thread/WARN]: One or more workarounds were enabled to prevent crashes or other issues on your system. You may need to update your graphics drivers.
+[22:25:26] [Render thread/INFO]: Mixing client.MixinMinecraft from mixins/common/nochatreports.mixins.json into net.minecraft.class_310
+[22:25:26] [Render thread/INFO]: Mixing client.MixinMinecraft from mixins/fabric/nochatreports-fabric.mixins.json into net.minecraft.class_310
+[22:25:26] [Render thread/WARN]: Method overwrite conflict for getPausedTickDelta in entity_model_features-common.mixins.json:accessor.MinecraftClientAccessor from mod entity_model_features, previously written by carpet.mixins.Minecraft_pausedShakeMixin. Skipping method.
+[22:25:26] [Render thread/INFO]: Mixing client.MixinTitleScreen from mixins/common/nochatreports.mixins.json into net.minecraft.class_442
+[22:25:26] [Render thread/INFO]: Mixing client.MixinChatScreen from mixins/common/nochatreports.mixins.json into net.minecraft.class_408
+[22:25:26] [Render thread/INFO]: Renaming synthetic method lambda$onInit$4()Lnet/minecraft/class_2561; to mde18a69$nochatreports$lambda$onInit$4$1 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[22:25:26] [Render thread/INFO]: Renaming synthetic method lambda$onInit$3(Lnet/minecraft/class_4185;)V to mde18a69$nochatreports$lambda$onInit$3$2 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[22:25:26] [Render thread/INFO]: Renaming synthetic method lambda$onInit$2()Lnet/minecraft/class_2561; to mde18a69$nochatreports$lambda$onInit$2$3 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[22:25:26] [Render thread/INFO]: Renaming synthetic method lambda$onInit$1(Lnet/minecraft/class_4185;)V to mde18a69$nochatreports$lambda$onInit$1$4 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[22:25:26] [Render thread/INFO]: Renaming synthetic method lambda$onBeforeMessage$0(Ljava/lang/String;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lcom/aizistral/nochatreports/common/encryption/Encryptor;)V to mde18a69$nochatreports$lambda$onBeforeMessage$0$5 in mixins/common/nochatreports.mixins.json:client.MixinChatScreen from mod nochatreports
+[22:25:26] [Render thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:25:26] [Render thread/INFO]: Mixing client.MixinYggdrasilUserApiService from mixins/common/nochatreports.mixins.json into com.mojang.authlib.yggdrasil.YggdrasilUserApiService
+[22:25:27] [Render thread/INFO]: Setting user: WForst_Breeze
+[22:25:27] [Render thread/INFO]: Mixing client.MixinToastComponent from mixins/common/nochatreports.mixins.json into net.minecraft.class_374
+[22:25:27] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:27] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:27] [Render thread/INFO]: Hello Fabric world!
+[22:25:27] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[22:25:27] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[22:25:27] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[22:25:27] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[22:25:27] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[22:25:27] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[22:25:27] [Render thread/INFO]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[22:25:27] [Render thread/INFO]: Loading Collective version 6.57.
+[22:25:27] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:27] [Render thread/ERROR]: Errors were encountered when loading the config file craftingtweaks-common.toml:
+[22:25:27] [Render thread/ERROR]: - Error loading config property [common] 'compressDenylist'
+java.lang.NullPointerException: null
+	at java.lang.Class.isAssignableFrom(Native Method) ~[?:?]
+	at net.blay09.mods.balm.fabric.config.FabricConfigLoader.convertValue(FabricConfigLoader.java:212) ~[%5Bapi%5D%20balm-fabric-1.20-7.0.2.jar:?]
+	at net.blay09.mods.balm.fabric.config.FabricConfigLoader.convertValue(FabricConfigLoader.java:199) ~[%5Bapi%5D%20balm-fabric-1.20-7.0.2.jar:?]
+	at net.blay09.mods.balm.fabric.config.FabricConfigLoader.load(FabricConfigLoader.java:59) ~[%5Bapi%5D%20balm-fabric-1.20-7.0.2.jar:?]
+	at net.blay09.mods.balm.fabric.config.FabricBalmConfig.initializeBackingConfig(FabricBalmConfig.java:26) ~[%5Bapi%5D%20balm-fabric-1.20-7.0.2.jar:?]
+	at net.blay09.mods.balm.api.config.AbstractBalmConfig.registerConfig(AbstractBalmConfig.java:80) ~[%5Bapi%5D%20balm-fabric-1.20-7.0.2.jar:?]
+	at net.blay09.mods.craftingtweaks.config.CraftingTweaksConfig.initialize(CraftingTweaksConfig.java:13) ~[%5B功能%5D%5B合成辅助%5D%20craftingtweaks-fabric-1.20-18.0.1.jar:?]
+	at net.blay09.mods.craftingtweaks.CraftingTweaks.initialize(CraftingTweaks.java:21) ~[%5B功能%5D%5B合成辅助%5D%20craftingtweaks-fabric-1.20-18.0.1.jar:?]
+	at net.blay09.mods.balm.fabric.FabricBalmRuntime.initialize(FabricBalmRuntime.java:183) ~[%5Bapi%5D%20balm-fabric-1.20-7.0.2.jar:?]
+	at net.blay09.mods.balm.api.Balm.initialize(Balm.java:35) ~[%5Bapi%5D%20balm-fabric-1.20-7.0.2.jar:?]
+	at net.blay09.mods.craftingtweaks.FabricCraftingTweaks.onInitialize(FabricCraftingTweaks.java:9) ~[%5B功能%5D%5B合成辅助%5D%20craftingtweaks-fabric-1.20-18.0.1.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35) ~[fabric-loader-0.14.21.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:52) ~[fabric-loader-0.14.21.jar:?]
+	at net.minecraft.class_310.<init>(class_310.java:458) ~[client-intermediary.jar:?]
+	at net.minecraft.client.main.Main.main(Main.java:211) ~[Frodium%201.3.0%20(Dev).jar:?]
 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.21.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.21.jar:?]
@@ -365,124 +389,228 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
 	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
-[21:18:41] [main/ERROR]: Minecraft has crashed!
-net.fabricmc.loader.impl.FormattedException: java.lang.BootstrapMethodError: java.lang.RuntimeException: Mixin transformation of net.minecraft.class_746 failed
-	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:63) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:470) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) ~[fabric-loader-0.14.21.jar:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
-	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
-	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
-	at java.lang.reflect.Method.invoke(Method.java:568) ~[?:?]
-	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60) ~[?:?]
-	at oolloo.jlw.Wrapper.main(Wrapper.java:53) ~[?:?]
-Caused by: java.lang.BootstrapMethodError: java.lang.RuntimeException: Mixin transformation of net.minecraft.class_746 failed
-	at net.minecraft.class_2591.<clinit>(class_2591.java:37) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47466(class_7923.java:129) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47485(class_7923.java:215) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47482(class_7923.java:230) ~[client-intermediary.jar:?]
-	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
-	at net.minecraft.class_7923.method_47487(class_7923.java:228) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.redirect$eeg000$fabric-registry-sync-v0$initialize(class_2966.java:565) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.method_12851(class_2966.java:69) ~[client-intermediary.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:166) ~[Frodium%201.3.0%20(Dev).jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
-	... 8 more
-Caused by: java.lang.RuntimeException: Mixin transformation of net.minecraft.class_746 failed
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:427) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
-	at net.minecraft.class_2591.<clinit>(class_2591.java:37) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47466(class_7923.java:129) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47485(class_7923.java:215) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47482(class_7923.java:230) ~[client-intermediary.jar:?]
-	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
-	at net.minecraft.class_7923.method_47487(class_7923.java:228) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.redirect$eeg000$fabric-registry-sync-v0$initialize(class_2966.java:565) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.method_12851(class_2966.java:69) ~[client-intermediary.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:166) ~[Frodium%201.3.0%20(Dev).jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
-	... 8 more
-Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
-	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
-	at net.minecraft.class_2591.<clinit>(class_2591.java:37) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47466(class_7923.java:129) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47485(class_7923.java:215) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47482(class_7923.java:230) ~[client-intermediary.jar:?]
-	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
-	at net.minecraft.class_7923.method_47487(class_7923.java:228) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.redirect$eeg000$fabric-registry-sync-v0$initialize(class_2966.java:565) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.method_12851(class_2966.java:69) ~[client-intermediary.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:166) ~[Frodium%201.3.0%20(Dev).jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
-	... 8 more
-Caused by: org.spongepowered.asm.mixin.throwables.MixinApplyError: Mixin [litematica-printer-implementation.mixins.json:MixinClientPlayerEntity from mod litematica_printer] from phase [DEFAULT] in config [litematica-printer-implementation.mixins.json] FAILED during APPLY
-	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinError(MixinProcessor.java:638) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinProcessor.handleMixinApplyError(MixinProcessor.java:589) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:379) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
-	at net.minecraft.class_2591.<clinit>(class_2591.java:37) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47466(class_7923.java:129) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47485(class_7923.java:215) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47482(class_7923.java:230) ~[client-intermediary.jar:?]
-	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
-	at net.minecraft.class_7923.method_47487(class_7923.java:228) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.redirect$eeg000$fabric-registry-sync-v0$initialize(class_2966.java:565) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.method_12851(class_2966.java:69) ~[client-intermediary.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:166) ~[Frodium%201.3.0%20(Dev).jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
-	... 8 more
-Caused by: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Critical injection failure: @Inject annotation on openEditSignScreen could not find any targets matching 'Lnet/minecraft/class_746;method_7311(Lnet/minecraft/class_2625;)V' in net.minecraft.class_746. Using refmap v1_19_4-refmap.json [PREINJECT Applicator Phase -> litematica-printer-implementation.mixins.json:MixinClientPlayerEntity from mod litematica_printer -> Prepare Injections ->  -> handler$fgh000$litematica_printer$openEditSignScreen(Lnet/minecraft/class_2625;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V -> Parse]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.validateTargets(InjectionInfo.java:656) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.findTargets(InjectionInfo.java:587) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.readAnnotation(InjectionInfo.java:330) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:316) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.<init>(InjectionInfo.java:308) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo.<init>(CallbackInjectionInfo.java:46) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at jdk.internal.reflect.GeneratedConstructorAccessor60.newInstance(Unknown Source) ~[?:?]
-	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:480) ~[?:?]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo$InjectorEntry.create(InjectionInfo.java:149) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.parse(InjectionInfo.java:708) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1329) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:1053) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:395) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.12.5+mixin.0.8.5.jar:0.12.5+mixin.0.8.5]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218) ~[fabric-loader-0.14.21.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112) ~[fabric-loader-0.14.21.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:520) ~[?:?]
-	at net.minecraft.class_2591.<clinit>(class_2591.java:37) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47466(class_7923.java:129) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47485(class_7923.java:215) ~[client-intermediary.jar:?]
-	at net.minecraft.class_7923.method_47482(class_7923.java:230) ~[client-intermediary.jar:?]
-	at java.util.LinkedHashMap.forEach(LinkedHashMap.java:721) ~[?:?]
-	at net.minecraft.class_7923.method_47487(class_7923.java:228) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.redirect$eeg000$fabric-registry-sync-v0$initialize(class_2966.java:565) ~[client-intermediary.jar:?]
-	at net.minecraft.class_2966.method_12851(class_2966.java:69) ~[client-intermediary.jar:?]
-	at net.minecraft.client.main.Main.main(Main.java:166) ~[Frodium%201.3.0%20(Dev).jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468) ~[fabric-loader-0.14.21.jar:?]
-	... 8 more
+[22:25:27] [Render thread/ERROR]: The affected properties have been reset to their defaults and a backup of the corrupted version was created under craftingtweaks-common.toml.bak2
+[22:25:27] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Started reading file 'crosshair_config.ccmcfg'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'dot_enabled' to 'false'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_adaptive_colour_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'highlight_passive_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_height' to '4'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'visible_default' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'outline_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_style' to 'CROSS'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_scale' to '100'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'dot_colour' to '255/255/255/255'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_keep_debug_enabled' to 'false'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'visible_holding_spyglass' to 'false'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'mod_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'rainbow_enabled' to 'false'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_width' to '4'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'highlight_hostile_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'dynamic_bow_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_thickness' to '1'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_offset_y' to '0'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'highlight_players_colour' to '60/60/240/255'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'tool_damage_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_offset_x' to '0'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'itemcooldown_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_rotation' to '0'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'visible_holding_throwable_item' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'highlight_hostile_colour' to '220/40/40/255'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'visible_holding_ranged_weapon' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'visible_debug' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'visible_spectator' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'visible_hiddengui' to 'false'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_gap' to '3'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'outline_colour' to '32/32/32/255'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'rainbow_speed' to '500'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'dynamic_attackindicator_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'highlight_passive_colour' to '40/230/40/255'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'crosshair_colour' to '255/255/255/0'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'itemcooldown_colour' to '255/255/255/80'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'highlight_players_enabled' to 'true'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Set property 'visible_thirdperson' to 'false'.
+[22:25:27] [Render thread/INFO]: [Config Manager (Read)] Finished reading file 'crosshair_config.ccmcfg'.
+[22:25:27] [Render thread/INFO]: [Drawn Crosshair (Read)] Started reading drawn crosshair image.
+[22:25:27] [Render thread/INFO]: [Drawn Crosshair (Read)] Finished reading drawn crosshair image.
+[22:25:27] [Render thread/INFO]: Constructing common components for mod easymagic
+[22:25:28] [Render thread/INFO]: Loading client config for easymagic
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/INFO]: [jamlib] Mod initialized!
+[22:25:28] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.20+build.1-v2.tiny loaded
+[22:25:28] [Render thread/INFO]: Compression will use Java, encryption will use Java
+[22:25:28] [Render thread/INFO]: [MagicLib|Common]: Mod initialized - Version: 0.7.336+05361cf-stable
+[22:25:28] [Render thread/INFO]: KONNICHIWA ZA WARUDO!
+[22:25:28] [Render thread/INFO]: Default JVM text encoding is: GBK
+[22:25:28] [Render thread/INFO]: Reading config file NoChatReports/NCR-Common.json...
+[22:25:28] [Render thread/INFO]: Reading config file NoChatReports/NCR-Client.json...
+[22:25:28] [Render thread/INFO]: Reading config file NoChatReports/NCR-ServerPreferences.json...
+[22:25:28] [Render thread/INFO]: Reading config file NoChatReports/NCR-Encryption.json...
+[22:25:28] [Render thread/INFO]: Writing config file NoChatReports/NCR-Common.json...
+[22:25:28] [Render thread/INFO]: Writing config file NoChatReports/NCR-Client.json...
+[22:25:28] [Render thread/INFO]: Writing config file NoChatReports/NCR-ServerPreferences.json...
+[22:25:28] [Render thread/INFO]: Writing config file NoChatReports/NCR-Encryption.json...
+[22:25:28] [Render thread/INFO]: Client initialization...
+[22:25:28] [Render thread/INFO]: Mixing client.MixinClientPacketListener from mixins/common/nochatreports.mixins.json into net.minecraft.class_634
+[22:25:28] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:28] [Render thread/INFO]: Constructing common components for mod puzzleslib
+[22:25:28] [Render thread/INFO]: [rightclickharvest] Initializing VersionUtils
+[22:25:28] [Render thread/INFO]: [rightclickharvest] VersionUtils initialized successfully
+[22:25:28] [Render thread/INFO]: [jamlib] Registered config for rightclickharvest
+[22:25:28] [Render thread/INFO]: [rightclickharvest] Mod initialized!
+[22:25:29] [Render thread/INFO]: [REI] Config loaded
+[22:25:29] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:29] [Render thread/INFO]: [STDERR]: java.lang.RuntimeException: Could not create REI Plugin [REIPlugin] due to errors, provided by 'roughlyenoughitems'!
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.fabric.PluginDetectorImpl.loadPlugin(PluginDetectorImpl.java:114)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.fabric.PluginDetectorImpl.detectCommonPlugins(PluginDetectorImpl.java:139)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:172)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.invoke.MethodHandleProxies$1.invoke(MethodHandleProxies.java:198)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at jdk.proxy3/com.sun.proxy.jdk.proxy3.$Proxy35.onInitialize(Unknown Source)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:52)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.<init>(class_310.java:458)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:211)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[22:25:29] [Render thread/INFO]: [STDERR]: Caused by: java.lang.ExceptionInInitializerError
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.forName0(Native Method)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.forName(Class.java:467)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:117)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.fabric.PluginDetectorImpl.loadPlugin(PluginDetectorImpl.java:85)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	... 20 more
+[22:25:29] [Render thread/INFO]: [STDERR]: Caused by: java.lang.RuntimeException: Mixin transformation of net.minecraft.server.MinecraftServer failed
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:427)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:323)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:218)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:112)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at dev.architectury.networking.NetworkManager.registerReceiver(NetworkManager.java)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at dev.architectury.networking.NetworkManager.registerReceiver(NetworkManager.java:44)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.plugin.common.displays.tag.TagNodes$Client.init(TagNodes.java:177)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at dev.architectury.utils.EnvExecutor.runInEnv(EnvExecutor.java:35)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.plugin.common.displays.tag.TagNodes.init(TagNodes.java:122)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.plugin.common.DefaultPlugin.<clinit>(DefaultPlugin.java:63)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	... 26 more
+[22:25:29] [Render thread/INFO]: [STDERR]: Caused by: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:422)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	... 36 more
+[22:25:29] [Render thread/INFO]: [STDERR]: Caused by: org.spongepowered.asm.mixin.injection.throwables.InjectionError: Critical injection failure: Redirector yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V in carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition failed injection check, (0/1) succeeded. Scanned 1 target(s). Using refmap carpet-tis-addition-mc1.20-refmap.json
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.postInject(InjectionInfo.java:468)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.applyInjections(MixinTargetContext.java:1384)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyInjections(MixinApplicatorStandard.java:1062)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:402)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:327)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:421)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:403)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	... 39 more
+[22:25:29] [Render thread/ERROR]: Could not create REI Plugin [REIPlugin] due to errors, provided by 'roughlyenoughitems'!
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider ReiCompat [travelersbackpack] for REIPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider REITooltipPlugin [appleskin] for REIPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider OwoReiPlugin [owo] for REIPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientPlugin [roughlyenoughitems] for REIPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider REPClientPlugin [roughlyenoughprofessions] for REIPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider ReiClientCompat [travelersbackpack] for REIPlugin
+[22:25:29] [Render thread/INFO]: [STDERR]: java.lang.RuntimeException: Could not create REI Plugin [REIServerPlugin] due to errors, provided by 'roughlyenoughitems'!
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.fabric.PluginDetectorImpl.loadPlugin(PluginDetectorImpl.java:114)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.fabric.PluginDetectorImpl.detectServerPlugins(PluginDetectorImpl.java:128)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.RoughlyEnoughItemsCore.onInitialize(RoughlyEnoughItemsCore.java:173)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.initializeEntryPoint(RoughlyEnoughItemsInitializer.java:84)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.impl.init.RoughlyEnoughItemsInitializer.onInitialize(RoughlyEnoughItemsInitializer.java:48)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.invoke.MethodHandleProxies$1.invoke(MethodHandleProxies.java:198)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at jdk.proxy3/com.sun.proxy.jdk.proxy3.$Proxy35.onInitialize(Unknown Source)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke0(EntrypointUtils.java:47)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointUtils.invoke(EntrypointUtils.java:35)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.Hooks.startClient(Hooks.java:52)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.minecraft.class_310.<init>(class_310.java:458)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.minecraft.client.main.Main.main(Main.java:211)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:468)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.invokeMain(Wrapper.java:60)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at oolloo.jlw.Wrapper.main(Wrapper.java:53)
+[22:25:29] [Render thread/INFO]: [STDERR]: Caused by: java.lang.NoClassDefFoundError: Could not initialize class me.shedaniel.rei.plugin.common.DefaultPlugin
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.forName0(Native Method)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at java.base/java.lang.Class.forName(Class.java:467)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.util.DefaultLanguageAdapter.create(DefaultLanguageAdapter.java:50)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointStorage$NewEntry.getOrCreate(EntrypointStorage.java:117)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at net.fabricmc.loader.impl.entrypoint.EntrypointContainerImpl.getEntrypoint(EntrypointContainerImpl.java:53)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	at me.shedaniel.rei.fabric.PluginDetectorImpl.loadPlugin(PluginDetectorImpl.java:85)
+[22:25:29] [Render thread/INFO]: [STDERR]: 	... 20 more
+[22:25:29] [Render thread/ERROR]: Could not create REI Plugin [REIServerPlugin] due to errors, provided by 'roughlyenoughitems'!
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider ReiCompat [travelersbackpack] for REIServerPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIServerPlugin
+[22:25:29] [Render thread/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REIPlugin
+[22:25:29] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:29] [Render thread/INFO]: Reloading reverb parameters
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.ice.break not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.shulker_box.break not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.gourd.place not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.chorus_plant.place not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:item.shield.raise not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.ice.step not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.ice.fall not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:item.sword.swing not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.gourd.step not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.ice.place not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.shulker_box.hit not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.shulker_box.place not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.gourd.fall not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.ice.hit not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.jukebox.use not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.chorus_plant.hit not found
+[22:25:29] [Render thread/WARN]: Sound event minecraft:music.overworld.jungle_and_forest not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.purpur.place not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:item.spawn_egg.use not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:item.tool.swing not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.gourd.hit not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.chorus_plant.break not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:item.trident.swing not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.purpur.break not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.chorus_plant.step not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.spawner.break not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.chorus_plant.fall not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:item.axe.swing not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.purpur.hit not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:item.bow.pulling not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.shulker_box.fall not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.shulker_box.step not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.purpur.step not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.jukebox.eject not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.gourd.break not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:player.item.drop not found
+[22:25:29] [Render thread/WARN]: Sound event auditory:block.purpur.fall not found
+[22:25:29] [Render thread/WARN]: @Redirect conflict. Skipping carpet-tis-addition.mixins.json:rule.yeetUpdateSuppressionCrash.MinecraftServerMixin from mod carpet-tis-addition->@Redirect::yeetUpdateSuppressionCrash_implOnTickWorlds(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000, already redirected by carpet-fixes.mixins.json:coreSystemFixes.updateSuppression.MinecraftServer_crashFixMixin from mod carpet-fixes->@Redirect::catchExceptions(Lnet/minecraft/class_3218;Ljava/util/function/BooleanSupplier;)V with priority 1000
+[22:25:29] [Render thread/INFO]: Constructing common components for mod visualworkbench
+[22:25:29] [Render thread/INFO]: Loading client config for visualworkbench
