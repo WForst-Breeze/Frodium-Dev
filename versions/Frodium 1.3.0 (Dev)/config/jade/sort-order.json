@@ -84,5 +84,8 @@
   "minecraft:item_storage": null,
   "minecraft:fluid_storage": null,
   "minecraft:energy_storage": null,
-  "minecraft:progress": null
+  "minecraft:progress": null,
+  "reputation:iron_golem": null,
+  "reputation:villager_reputation": null,
+  "reputation:villager_snitch": null
 }
