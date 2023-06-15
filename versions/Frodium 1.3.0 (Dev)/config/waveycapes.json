@@ -1,9 +1,8 @@
 {
   "configVersion": 2,
-  "windMode": "NONE",
+  "windMode": "WAVES",
   "capeStyle": "SMOOTH",
-  "capeMovement": "BASIC_SIMULATION_3D",
-  "gravity": 25,
-  "heightMultiplier": 6,
-  "straveMultiplier": 2
+  "capeMovement": "BASIC_SIMULATION",
+  "gravity": 5,
+  "heightMultiplier": 10
 }

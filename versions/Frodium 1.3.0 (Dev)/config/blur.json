@@ -8,7 +8,6 @@
     "net.coderbot.iris.gui.screen.ShaderPackScreen"
   ],
   "fadeTimeMillis": 200,
-  "fadeOutTimeMillis": 200,
   "ease": true,
   "radius": 8,
   "gradientStart": "#000000",

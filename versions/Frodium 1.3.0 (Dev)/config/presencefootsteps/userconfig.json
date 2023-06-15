@@ -1,9 +1,8 @@
 {
-  "volume": 70,
+  "volume": 77,
   "clientPlayerVolume": 100,
   "otherPlayerVolume": 100,
-  "runningVolumeIncrease": 0,
-  "wetSoundsVolume": 50,
+  "runningVolumeIncrease": 5,
   "stance": "UNKNOWN",
   "multiplayer": true,
   "global": true,

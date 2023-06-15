@@ -1,0 +1,24 @@
+{
+  "beenfo.config.popupypercent": {
+    "key": "从上往下的弹窗位置",
+    "toolTip": "beenfo.config.tt.popupypercent",
+    "value": 50,
+    "defaultValue": 50,
+    "minValue": 0,
+    "maxValue": 100
+  },
+  "beenfo.config.popupxpercent": {
+    "key": "从左至右的弹窗位置",
+    "toolTip": "beenfo.config.tt.popupxpercent",
+    "value": 50,
+    "defaultValue": 50,
+    "minValue": 0,
+    "maxValue": 100
+  },
+  "beenfo.config.showpopup": {
+    "key": "显示准星弹窗",
+    "toolTip": "beenfo.config.tt.showpopup",
+    "value": true,
+    "defaultValue": false
+  }
+}

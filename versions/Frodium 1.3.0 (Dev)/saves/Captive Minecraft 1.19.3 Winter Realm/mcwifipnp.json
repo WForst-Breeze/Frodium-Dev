@@ -1,0 +1,13 @@
+{
+  "port": 25565,
+  "maxPlayers": 10,
+  "GameMode": "survival",
+  "motd": "A Minecraft LAN World",
+  "AllPlayersCheats": false,
+  "Whitelist": false,
+  "UseUPnP": true,
+  "AllowCommands": true,
+  "OnlineMode": true,
+  "PvP": true,
+  "CopyToClipboard": true
+}
