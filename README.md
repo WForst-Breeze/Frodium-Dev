@@ -1,1 +1,58 @@
-![Post_120sup](https://github.com/WForst-Breeze/Frodium-Dev/assets/110760354/6f882d9c-03d3-45f2-b4ad-ed0002e8e34f)
+<div align="center"><img src="https://github.com/WForst-Breeze/Files/blob/main/Frodium/Post_New3.png?raw=true" alt="Frodium Post"/></div>
+<div align="center">
+  
+![Forks](https://img.shields.io/github/stars/WForst-Breeze/Frodium-Modpack?color=yellow&style=for-the-badge) ![image](https://img.shields.io/github/forks/WForst-Breeze/Frodium-Modpack?color=blue&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/WForst-Breeze/Frodium-Modpack?color=success&style=for-the-badge)
+![Mods Count](https://img.shields.io/github/directory-file-count/WForst-Breeze/Frodium-Modpack/overrides/mods?label=Mods&color=important&style=for-the-badge)
+![Latest Version](https://img.shields.io/github/v/release/WForst-Breeze/Frodium-Modpack?display_name=tag&label=Latest&color=informational&style=for-the-badge)
+[![Frodium Gitee](https://img.shields.io/badge/-Gitee-C71D23?style=for-the-badge)](https://gitee.com/wforstbreeze/Frodium-Modpack-Gitee)
+[![Frodium Lite](https://img.shields.io/badge/-Lite-green?style=for-the-badge)](https://github.com/Scandium-Studio/Frodium-Modpack-Lite)
+</div>
+<div align="center">
+  
+### **简体中文** | [English](https://github.com/WForst-Breeze/Frodium-Modpack/blob/main/README-EN.md)
+
+</div>
+
+## 🎬 简介
+Frodium 致力于为原版 Minecraft 添加极其优秀的优化和视觉与听觉上的双重美化。同时为原版 Minecraft 添加许多实用功能及游戏工具包以方便玩家推进游戏进度，您可以通过 Frodium 在您的世界完成一些令人惊叹的伟大成就！
+
+## 🎉 特色
+> 标有 [EX] 的为扩展版独有
+
+Frodium 以实用为本，在[原版*](https://github.com/WForst-Breeze/Frodium-Modpack "Frodium 目前仅支持 Fabric 1.19.3，1.20 升级工作暂缓处理。")基础上拓展了大量丰富游戏体验的功能：
+
+- **全 Masa 支持！** 使用 _Tweakeroo、Tweak My Cilent、Oh My Minecraft Cilent、Masa Gadget、Mini HUD、Item Scroller、Litematica_ ，使您对的世界了如指掌！
+- **全 Carpet 支持！** 让各种有趣的功能助您一臂之力！
+- **终极优化！** Sodium+Iris 加持，与 20+ 优化模组共同优化您的游戏体验！**🚀FPS+++！🚀**
+- **聊天举报？No！** 使用 _NoChatReports_ 模组，和糟糕的聊天举报机制说拜拜！
+- **更好的鞘翅！** 让 _Elytra Chestplate Swapper_ 和 _Easy Elytra Take Off_ 还您一个良好的飞行体验！
+- **有地图，但不多！** 使用 Xaero 的地图系列，默认隐藏了小地图，还您一个干净的游戏界面！
+- [EX] **沉浸式游戏体验！** 在 _Sound Physics_、_Presence Footsteps_ 和 _Ambient Sounds_ 的加持下，您会获得一个优雅、闲适的游戏画卷！
+- [EX] **嘘~这些你还不知道吧？** 使用 _Tips_ 模组，在加载画面中学习 Minecraft 的小知识吧！
+- [EX] **一切尽在掌握！** 多种信息显示模组一起让您度过完美的一天！
+- [EX]（待完善）**Optifine 功能，一个也不能少！** 
+
+## 🎮 优化演示
+||型号|
+|--|--|
+|CPU|Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz   3.60 GHz|
+|显卡|NVIDIA GeForce RTX 3060|
+|内存|11.9GB|
+
+#### 使用 Frodium 前 - FPS: 381!
+![Before](https://user-images.githubusercontent.com/110760354/215751234-d62e6f89-2157-4fa7-817e-1fefa555e9c3.png)
+
+#### 使用 Frodium 后 - FPS: 959!
+![After](https://user-images.githubusercontent.com/110760354/215751933-7f942926-5529-4bfc-abdf-bc701803f92f.png)
+
+## 💾 如何安装
+整合包为 MCBBS 格式，因此支持大部分启动器进行安装！可将整合包拖入启动器窗口自动执行安装操作！
+> 如：**HMCL PCL2 BakaXL MultiMC**
+
+对于扩展版，请直接在 Release 中下载即可；对于基础版，请在文首单击绿色背景的“Lite”后进行下载
+
+---
+<div align="center">
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+</div>
