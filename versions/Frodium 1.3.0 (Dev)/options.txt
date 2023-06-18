@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:0
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","itemswapper:default","continuity:default","continuity:glass_pane_culling_fix","file/Frodium Resources"]
-incompatibleResourcePacks:["file/Frodium Resources"]
+resourcePacks:["vanilla","fabric","itemswapper:default","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.8.zip","file/Stay_True_1.20_beta.zip","file/GUI-SimpleStylized_2.1-1.20.zip","file/Frodium Resources"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:zh_cn
 soundDevice:""
