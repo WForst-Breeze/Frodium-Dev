@@ -1,4 +1,121 @@
 {
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2023-02-08 14:43:43 +0800",
+      "minecraft:old_growth_pine_taiga": "2023-02-08 14:43:43 +0800",
+      "minecraft:mushroom_fields": "2023-02-08 14:43:43 +0800",
+      "minecraft:taiga": "2023-02-08 14:43:43 +0800",
+      "minecraft:deep_ocean": "2023-02-08 14:43:43 +0800",
+      "minecraft:eroded_badlands": "2023-02-08 14:43:43 +0800",
+      "minecraft:frozen_river": "2023-02-08 14:43:43 +0800",
+      "minecraft:sunflower_plains": "2023-02-08 14:43:43 +0800",
+      "minecraft:birch_forest": "2023-02-08 14:43:43 +0800",
+      "minecraft:windswept_hills": "2023-02-08 14:43:43 +0800",
+      "minecraft:bamboo_jungle": "2023-02-08 14:43:43 +0800",
+      "minecraft:wooded_badlands": "2023-02-08 14:43:43 +0800",
+      "minecraft:badlands": "2023-02-08 14:43:43 +0800",
+      "minecraft:savanna_plateau": "2023-02-08 14:43:43 +0800",
+      "minecraft:beach": "2023-02-08 14:43:43 +0800",
+      "minecraft:dark_forest": "2023-02-08 14:43:43 +0800",
+      "minecraft:stony_peaks": "2023-02-08 14:43:43 +0800",
+      "minecraft:mangrove_swamp": "2023-02-08 14:43:43 +0800",
+      "minecraft:sparse_jungle": "2023-02-08 14:43:43 +0800",
+      "minecraft:lukewarm_ocean": "2023-02-08 14:43:43 +0800",
+      "minecraft:river": "2023-02-08 14:43:43 +0800",
+      "minecraft:snowy_plains": "2023-02-08 14:43:43 +0800",
+      "minecraft:stony_shore": "2023-02-08 14:43:43 +0800",
+      "minecraft:dripstone_caves": "2023-02-08 14:43:43 +0800",
+      "minecraft:snowy_taiga": "2023-02-08 14:43:43 +0800",
+      "minecraft:grove": "2023-02-08 14:43:43 +0800",
+      "minecraft:swamp": "2023-02-08 14:43:43 +0800",
+      "minecraft:jagged_peaks": "2023-02-08 14:43:43 +0800",
+      "minecraft:cold_ocean": "2023-02-08 14:43:43 +0800",
+      "minecraft:forest": "2023-02-08 14:43:43 +0800",
+      "minecraft:lush_caves": "2023-02-08 14:43:43 +0800",
+      "minecraft:deep_cold_ocean": "2023-02-08 14:43:43 +0800",
+      "minecraft:ice_spikes": "2023-02-08 14:43:43 +0800",
+      "minecraft:frozen_ocean": "2023-02-08 14:43:43 +0800",
+      "minecraft:desert": "2023-02-08 14:43:43 +0800",
+      "minecraft:deep_frozen_ocean": "2023-02-08 14:43:43 +0800",
+      "minecraft:windswept_forest": "2023-02-08 14:43:43 +0800",
+      "minecraft:jungle": "2023-02-08 14:43:43 +0800",
+      "minecraft:ocean": "2023-02-08 14:43:43 +0800",
+      "minecraft:old_growth_spruce_taiga": "2023-02-08 14:43:43 +0800",
+      "minecraft:snowy_beach": "2023-02-08 14:43:43 +0800",
+      "minecraft:windswept_savanna": "2023-02-08 14:43:43 +0800",
+      "minecraft:warm_ocean": "2023-02-08 14:43:43 +0800",
+      "minecraft:deep_lukewarm_ocean": "2023-02-08 14:43:43 +0800",
+      "minecraft:flower_forest": "2023-02-08 14:43:43 +0800",
+      "minecraft:frozen_peaks": "2023-02-08 14:43:43 +0800",
+      "minecraft:old_growth_birch_forest": "2023-02-08 14:43:43 +0800",
+      "minecraft:deep_dark": "2023-02-08 14:43:43 +0800",
+      "minecraft:meadow": "2023-02-08 14:43:43 +0800",
+      "minecraft:windswept_gravelly_hills": "2023-02-08 14:43:43 +0800",
+      "minecraft:savanna": "2023-02-08 14:43:43 +0800",
+      "minecraft:plains": "2023-01-04 08:52:50 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2023-01-04 08:53:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2023-01-04 08:53:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2023-01-04 08:53:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2023-01-04 08:53:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2023-01-04 08:53:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2023-01-04 08:53:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2023-01-04 08:53:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2023-01-04 08:53:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2023-01-04 08:53:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_chainmail_chestplate": "2023-01-04 08:53:17 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_cut_copper_stairs": "2023-02-08 14:43:43 +0800",
@@ -125,12 +242,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/100_trades": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2023-02-08 14:43:43 +0800",
@@ -154,13 +265,6 @@
   "minecraft:husbandry/froglights": {
     "criteria": {
       "froglights": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -248,12 +352,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/boat": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_mangrove_wood": {
     "criteria": {
       "has_log": "2023-02-08 14:43:43 +0800",
@@ -275,14 +373,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800",
-      "has_black_dye": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_red_sandstone": "2023-02-08 14:43:43 +0800",
@@ -297,40 +387,10 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/all_villagers": {
-    "criteria": {
-      "snow": "2023-02-08 14:43:43 +0800",
-      "taiga": "2023-02-08 14:43:43 +0800",
-      "plains": "2023-02-08 14:43:43 +0800",
-      "savanna": "2023-02-08 14:43:43 +0800",
-      "jungle": "2023-02-08 14:43:43 +0800",
-      "desert": "2023-02-08 14:43:43 +0800",
-      "swamp": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/play_disc_ward": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/get_hero_5": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2023-02-08 14:43:43 +0800",
       "distract_piglin_directly": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/guardian_killer": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -345,12 +405,6 @@
     "criteria": {
       "has_oxeye_daisy": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/armor_stand": {
-    "criteria": {
-      "requirement": "2023-01-04 08:53:18 +0800"
     },
     "done": true
   },
@@ -491,12 +545,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:end/dragon_killer": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -511,12 +559,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/find_shipwreck": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_weathered_cut_copper": "2023-02-08 14:43:43 +0800",
@@ -528,12 +570,6 @@
     "criteria": {
       "has_cobbled_deepslate": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/kill_dolphin": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -688,13 +724,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -732,12 +761,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/root": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_copper": "2023-02-08 14:43:43 +0800",
@@ -749,12 +772,6 @@
     "criteria": {
       "has_cobbled_deepslate": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/kill_ravager": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -841,12 +858,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/obtain_disc_chirp": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_slab": {
     "criteria": {
       "has_polished_diorite": "2023-02-08 14:43:43 +0800",
@@ -877,24 +888,10 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
-    "criteria": {
-      "has_light_blue_dye": "2023-02-08 14:43:43 +0800",
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz_slab": {
     "criteria": {
       "has_smooth_quartz": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/find_outpost": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -979,12 +976,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/obtain_disc_far": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -1048,14 +1039,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_lime_dye": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2023-02-08 14:43:43 +0800",
@@ -1074,12 +1057,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_planks": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_smelting": {
-    "criteria": {
-      "has_chainmail_chestplate": "2023-01-04 08:53:17 +0800"
     },
     "done": true
   },
@@ -1122,12 +1099,6 @@
     "criteria": {
       "has_prismarine": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/conduit": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -1212,12 +1183,6 @@
     "criteria": {
       "has_glass": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/trade_monument_map": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -1317,12 +1282,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_purple_wool": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:end/dragon_head": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -1452,12 +1411,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/play_disc_wait": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2023-02-08 14:43:43 +0800",
@@ -1493,12 +1446,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/get_sponge": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2023-02-08 14:43:43 +0800",
@@ -1516,13 +1463,6 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -1575,12 +1515,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/enchanted_hoe": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:husbandry/leash_all_frog_variants": {
     "criteria": {
       "minecraft:warm": "2023-02-08 14:43:43 +0800",
@@ -1630,18 +1564,6 @@
     "criteria": {
       "has_logs": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/obtain_disc_5": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/pickle": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -1750,13 +1672,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_glazed_terracotta": {
     "criteria": {
       "has_magenta_terracotta": "2023-02-08 14:43:43 +0800",
@@ -1778,12 +1693,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/obtain_disc_11": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2023-02-08 14:43:43 +0800",
@@ -1795,12 +1704,6 @@
     "criteria": {
       "has_slime_ball": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/find_treasure": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -1825,22 +1728,9 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/obtain_disc_13": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
     "criteria": {
       "has_oxidized_cut_copper": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -1965,31 +1855,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/heartofsea": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/all_trades": {
-    "criteria": {
-      "toolsmith": "2023-02-08 14:43:43 +0800",
-      "cleric": "2023-02-08 14:43:43 +0800",
-      "fletcher": "2023-02-08 14:43:43 +0800",
-      "cartographer": "2023-02-08 14:43:43 +0800",
-      "wandering_trader": "2023-02-08 14:43:43 +0800",
-      "butcher": "2023-02-08 14:43:43 +0800",
-      "librarian": "2023-02-08 14:43:43 +0800",
-      "shepherd": "2023-02-08 14:43:43 +0800",
-      "weaponsmith": "2023-02-08 14:43:43 +0800",
-      "mason": "2023-02-08 14:43:43 +0800",
-      "armorer": "2023-02-08 14:43:43 +0800",
-      "farmer": "2023-02-08 14:43:43 +0800",
-      "fisherman": "2023-02-08 14:43:43 +0800",
-      "leatherworker": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2023-02-08 14:43:43 +0800",
@@ -2018,25 +1883,9 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/raid_in_all_villages": {
-    "criteria": {
-      "taiga": "2023-02-08 14:43:43 +0800",
-      "plains": "2023-02-08 14:43:43 +0800",
-      "savanna": "2023-02-08 14:43:43 +0800",
-      "desert": "2023-02-08 14:43:43 +0800",
-      "snowy": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:end/dragon_egg": {
     "criteria": {
       "dragon_egg": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:husbandry/pot": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -2126,37 +1975,10 @@
     },
     "done": true
   },
-  "moreadvancementsmod:end/all_shulker_boxes": {
-    "criteria": {
-      "cyan_shulker_box": "2023-02-08 14:43:43 +0800",
-      "purple_shulker_box": "2023-02-08 14:43:43 +0800",
-      "pink_shulker_box": "2023-02-08 14:43:43 +0800",
-      "green_shulker_box": "2023-02-08 14:43:43 +0800",
-      "orange_shulker_box": "2023-02-08 14:43:43 +0800",
-      "magenta_shulker_box": "2023-02-08 14:43:43 +0800",
-      "light_gray_shulker_box": "2023-02-08 14:43:43 +0800",
-      "black_shulker_box": "2023-02-08 14:43:43 +0800",
-      "white_shulker_box": "2023-02-08 14:43:43 +0800",
-      "blue_shulker_box": "2023-02-08 14:43:43 +0800",
-      "gray_shulker_box": "2023-02-08 14:43:43 +0800",
-      "lime_shulker_box": "2023-02-08 14:43:43 +0800",
-      "red_shulker_box": "2023-02-08 14:43:43 +0800",
-      "yellow_shulker_box": "2023-02-08 14:43:43 +0800",
-      "light_blue_shulker_box": "2023-02-08 14:43:43 +0800",
-      "brown_shulker_box": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/play_disc_far": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -2243,13 +2065,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -2260,19 +2075,6 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/obtain_disc_pigstep": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -2368,19 +2170,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/obtain_disc_ward": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2023-02-08 14:43:43 +0800",
@@ -2460,12 +2249,6 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/get_scute": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -2569,24 +2352,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_purple_dye": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -2616,12 +2384,6 @@
     "criteria": {
       "has_stone_bricks": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:story/frost_walk": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -2717,12 +2479,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/kill_warden": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:nether/all_effects": {
     "criteria": {
       "all_effects": "2023-02-08 14:43:43 +0800"
@@ -2770,23 +2526,10 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/play_disc_otherside": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -2826,15 +2569,8 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/sea_power": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_sand": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -2908,12 +2644,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/kill_creeper": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:cat": "2023-02-08 14:43:43 +0800",
@@ -2939,18 +2669,11 @@
       "minecraft:bee": "2023-02-08 14:43:43 +0800",
       "minecraft:axolotl": "2023-02-08 14:43:43 +0800"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -3017,13 +2740,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-02-08 14:43:43 +0800",
@@ -3063,12 +2779,6 @@
     "criteria": {
       "has_mossy_stone_bricks": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2023-01-04 08:53:10 +0800"
     },
     "done": true
   },
@@ -3157,13 +2867,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/diamond_from_smelting_diamond_ore": {
     "criteria": {
       "has_diamond_ore": "2023-02-08 14:43:43 +0800",
@@ -3201,19 +2904,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2023-01-04 08:53:10 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2023-02-08 14:43:43 +0800",
@@ -3244,13 +2934,6 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -3286,14 +2969,6 @@
       "has_glass_pane": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_black_dye": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800",
-      "has_magenta_dye": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -3352,14 +3027,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
-    "criteria": {
-      "has_green_dye": "2023-02-08 14:43:43 +0800",
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_waxed_exposed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_exposed_cut_copper": "2023-02-08 14:43:43 +0800",
@@ -3381,12 +3048,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/obtain_disc_mellohi": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2023-02-08 14:43:43 +0800",
@@ -3398,13 +3059,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_planks": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -3507,12 +3161,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/find_mansion": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -3552,12 +3200,6 @@
     "criteria": {
       "has_waxed_copper_block": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/kill_witch": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -3739,14 +3381,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_brown_dye": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -3758,12 +3392,6 @@
     "criteria": {
       "has_sandstone": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:husbandry/rabbit_foot": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -3788,22 +3416,10 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/kill_evoker": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/get_gold_block": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -3832,12 +3448,6 @@
     "criteria": {
       "has_blackstone": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2023-01-04 08:53:10 +0800"
     },
     "done": true
   },
@@ -3888,12 +3498,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/obtain_disc_wait": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2023-02-08 14:43:43 +0800",
@@ -3928,12 +3532,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:nether/kill_piglin_brute": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_pink_dye": "2023-02-08 14:43:43 +0800",
@@ -3947,20 +3545,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_yellow_dye": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:husbandry/nametag_rabbit": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_blue_dye": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -3984,19 +3568,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:nether/ghast_killer": {
-    "criteria": {
-      "lightning": "2023-02-08 14:43:43 +0800",
-      "potion": "2023-02-08 14:43:43 +0800",
-      "trident": "2023-02-08 14:43:43 +0800",
-      "crossbow": "2023-02-08 14:43:43 +0800",
-      "tnt": "2023-02-08 14:43:43 +0800",
-      "melee": "2023-02-08 14:43:43 +0800",
-      "bow": "2023-02-08 14:43:43 +0800",
-      "fireball": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_lime_terracotta": "2023-02-08 14:43:43 +0800",
@@ -4015,18 +3586,6 @@
     "criteria": {
       "has_wood_slab": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/kill_elder_guardian": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/kill_warden_with_silk": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4115,13 +3674,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2023-02-08 14:43:43 +0800",
@@ -4133,12 +3685,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_planks": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/play_disc_mellohi": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4181,48 +3727,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_planks": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:story/all_enchanted_books": {
-    "criteria": {
-      "impaling": "2023-02-08 14:43:43 +0800",
-      "thorns": "2023-02-08 14:43:43 +0800",
-      "piercing": "2023-02-08 14:43:43 +0800",
-      "fire_protection": "2023-02-08 14:43:43 +0800",
-      "smite": "2023-02-08 14:43:43 +0800",
-      "swift_sneak": "2023-02-08 14:43:43 +0800",
-      "unbreaking": "2023-02-08 14:43:43 +0800",
-      "feather_falling": "2023-02-08 14:43:43 +0800",
-      "mending": "2023-02-08 14:43:43 +0800",
-      "protection": "2023-02-08 14:43:43 +0800",
-      "respiration": "2023-02-08 14:43:43 +0800",
-      "projectile_protection": "2023-02-08 14:43:43 +0800",
-      "knockback": "2023-02-08 14:43:43 +0800",
-      "fire_aspect": "2023-02-08 14:43:43 +0800",
-      "lure": "2023-02-08 14:43:43 +0800",
-      "punch": "2023-02-08 14:43:43 +0800",
-      "channeling": "2023-02-08 14:43:43 +0800",
-      "frost_walker": "2023-02-08 14:43:43 +0800",
-      "sharpness": "2023-02-08 14:43:43 +0800",
-      "power": "2023-02-08 14:43:43 +0800",
-      "riptide": "2023-02-08 14:43:43 +0800",
-      "bane_of_arthropods": "2023-02-08 14:43:43 +0800",
-      "soul_speed": "2023-02-08 14:43:43 +0800",
-      "efficiency": "2023-02-08 14:43:43 +0800",
-      "fortune": "2023-02-08 14:43:43 +0800",
-      "looting": "2023-02-08 14:43:43 +0800",
-      "loyalty": "2023-02-08 14:43:43 +0800",
-      "silk_touch": "2023-02-08 14:43:43 +0800",
-      "sweeping_edge": "2023-02-08 14:43:43 +0800",
-      "quick_charge": "2023-02-08 14:43:43 +0800",
-      "aqua_affinity": "2023-02-08 14:43:43 +0800",
-      "multishot": "2023-02-08 14:43:43 +0800",
-      "depth_strider": "2023-02-08 14:43:43 +0800",
-      "luck_sea": "2023-02-08 14:43:43 +0800",
-      "infinity": "2023-02-08 14:43:43 +0800",
-      "flame": "2023-02-08 14:43:43 +0800",
-      "blast_protection": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4271,15 +3775,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/catch_all_fishes": {
-    "criteria": {
-      "pufferfish": "2023-02-08 14:43:43 +0800",
-      "salmon": "2023-02-08 14:43:43 +0800",
-      "cod": "2023-02-08 14:43:43 +0800",
-      "tropical_fish": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -4307,29 +3802,9 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/eat_cake_slices": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:husbandry/bake_cake": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_gray_dye": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4343,7 +3818,6 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2023-02-08 14:43:43 +0800",
-      "has_stick": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -4358,14 +3832,6 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
-    "criteria": {
-      "has_pink_dye": "2023-02-08 14:43:43 +0800",
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4401,12 +3867,6 @@
     "criteria": {
       "has_glass": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/kill_iron_golem": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4470,12 +3930,6 @@
     "criteria": {
       "has_polished_blackstone": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/obtain_disc_otherside": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4566,8 +4020,7 @@
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_the_recipe": "2023-02-08 14:43:43 +0800",
-      "has_planks": "2023-02-08 14:43:43 +0800"
+      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4723,22 +4176,10 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/bake_bread": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/fish_guardian": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4753,12 +4194,6 @@
     "criteria": {
       "has_blue_wool": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/play_disc_11": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -4790,12 +4225,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/play_disc_stal": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
     "criteria": {
       "has_light_blue_terracotta": "2023-02-08 14:43:43 +0800",
@@ -4821,12 +4250,6 @@
     "criteria": {
       "has_rabbit": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/play_disc_13": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -5010,12 +4433,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/trade_mansion_map": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2023-02-08 14:43:43 +0800",
@@ -5072,19 +4489,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/play_disc_mall": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2023-02-08 14:43:43 +0800",
@@ -5118,17 +4522,6 @@
     "criteria": {
       "has_boat": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/all_armors": {
-    "criteria": {
-      "leather_armor": "2023-02-08 14:43:43 +0800",
-      "iron_armor": "2023-02-08 14:43:43 +0800",
-      "diamond_armor": "2023-02-08 14:43:43 +0800",
-      "chainmail_armor": "2023-02-08 14:43:43 +0800",
-      "netherite_armor": "2023-02-08 14:43:43 +0800",
-      "golden_armor": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -5214,12 +4607,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:nether/swim_in_lava": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2023-02-08 14:43:43 +0800",
@@ -5238,12 +4625,6 @@
     "criteria": {
       "has_scute": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:husbandry/rabbit_feet": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -5296,12 +4677,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/fish_100_times": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2023-02-08 14:43:43 +0800"
@@ -5325,13 +4700,6 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
       "has_end_stone_bricks": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -5466,12 +4834,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2023-01-04 08:53:10 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_banner": {
     "criteria": {
       "has_yellow_wool": "2023-02-08 14:43:43 +0800",
@@ -5490,13 +4852,6 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -5648,14 +5003,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800",
-      "has_light_gray_dye": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2023-02-08 14:43:43 +0800",
@@ -5700,26 +5047,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/root": {
-    "criteria": {
-      "11": "2023-02-08 14:43:43 +0800",
-      "chirp": "2023-02-08 14:43:43 +0800",
-      "13": "2023-02-08 14:43:43 +0800",
-      "wait": "2023-02-08 14:43:43 +0800",
-      "blocks": "2023-02-08 14:43:43 +0800",
-      "mall": "2023-02-08 14:43:43 +0800",
-      "ward": "2023-02-08 14:43:43 +0800",
-      "pigstep": "2023-02-08 14:43:43 +0800",
-      "5": "2023-02-08 14:43:43 +0800",
-      "otherside": "2023-02-08 14:43:43 +0800",
-      "far": "2023-02-08 14:43:43 +0800",
-      "cat": "2023-02-08 14:43:43 +0800",
-      "stal": "2023-02-08 14:43:43 +0800",
-      "mellohi": "2023-02-08 14:43:43 +0800",
-      "strad": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2023-02-08 14:43:43 +0800",
@@ -5737,13 +5064,6 @@
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -5768,22 +5088,10 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/play_disc_cat": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/find_monument": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -5906,20 +5214,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/plant_all_seeds": {
-    "criteria": {
-      "potato": "2023-02-08 14:43:43 +0800",
-      "glow_berries": "2023-02-08 14:43:43 +0800",
-      "sweet_berries": "2023-02-08 14:43:43 +0800",
-      "wheat": "2023-02-08 14:43:43 +0800",
-      "melon": "2023-02-08 14:43:43 +0800",
-      "pumpkin": "2023-02-08 14:43:43 +0800",
-      "beetroot": "2023-02-08 14:43:43 +0800",
-      "cocoa": "2023-02-08 14:43:43 +0800",
-      "carrot": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_smooth_red_sandstone": "2023-02-08 14:43:43 +0800",
@@ -5959,21 +5253,6 @@
     "criteria": {
       "has_amethyst_shard": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/scaffolding_limit": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/kill_with_all_mob_heads": {
-    "criteria": {
-      "creeper_head": "2023-02-08 14:43:43 +0800",
-      "zombie_head": "2023-02-08 14:43:43 +0800",
-      "wither_skeleton_skull": "2023-02-08 14:43:43 +0800",
-      "skeleton_skull": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -6153,14 +5432,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800",
-      "has_orange_dye": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -6179,7 +5450,6 @@
     "criteria": {
       "has_string": "2023-02-08 14:43:43 +0800",
       "has_tripwire_hook": "2023-02-08 14:43:43 +0800",
-      "has_stick": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_iron_ingot": "2023-02-08 14:43:43 +0800"
     },
@@ -6209,19 +5479,6 @@
     "criteria": {
       "has_mud": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:adventure/elytra_display": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -6288,12 +5545,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_chainmail_chestplate": "2023-01-04 08:53:17 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/exposed_cut_copper_slab": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -6319,12 +5570,6 @@
     "criteria": {
       "has_smooth_sandstone": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/obtain_disc_cat": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -6430,74 +5675,11 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/obtain_disc_blocks": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_white_dye": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_black_dye": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:snowy_slopes": "2023-02-08 14:43:43 +0800",
-      "minecraft:old_growth_pine_taiga": "2023-02-08 14:43:43 +0800",
-      "minecraft:mushroom_fields": "2023-02-08 14:43:43 +0800",
-      "minecraft:taiga": "2023-02-08 14:43:43 +0800",
-      "minecraft:deep_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:eroded_badlands": "2023-02-08 14:43:43 +0800",
-      "minecraft:frozen_river": "2023-02-08 14:43:43 +0800",
-      "minecraft:sunflower_plains": "2023-02-08 14:43:43 +0800",
-      "minecraft:birch_forest": "2023-02-08 14:43:43 +0800",
-      "minecraft:windswept_hills": "2023-02-08 14:43:43 +0800",
-      "minecraft:bamboo_jungle": "2023-02-08 14:43:43 +0800",
-      "minecraft:wooded_badlands": "2023-02-08 14:43:43 +0800",
-      "minecraft:badlands": "2023-02-08 14:43:43 +0800",
-      "minecraft:savanna_plateau": "2023-02-08 14:43:43 +0800",
-      "minecraft:beach": "2023-02-08 14:43:43 +0800",
-      "minecraft:dark_forest": "2023-02-08 14:43:43 +0800",
-      "minecraft:stony_peaks": "2023-02-08 14:43:43 +0800",
-      "minecraft:mangrove_swamp": "2023-02-08 14:43:43 +0800",
-      "minecraft:sparse_jungle": "2023-02-08 14:43:43 +0800",
-      "minecraft:lukewarm_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:river": "2023-02-08 14:43:43 +0800",
-      "minecraft:snowy_plains": "2023-02-08 14:43:43 +0800",
-      "minecraft:stony_shore": "2023-02-08 14:43:43 +0800",
-      "minecraft:dripstone_caves": "2023-02-08 14:43:43 +0800",
-      "minecraft:snowy_taiga": "2023-02-08 14:43:43 +0800",
-      "minecraft:grove": "2023-02-08 14:43:43 +0800",
-      "minecraft:swamp": "2023-02-08 14:43:43 +0800",
-      "minecraft:jagged_peaks": "2023-02-08 14:43:43 +0800",
-      "minecraft:cold_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:forest": "2023-02-08 14:43:43 +0800",
-      "minecraft:lush_caves": "2023-02-08 14:43:43 +0800",
-      "minecraft:deep_cold_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:ice_spikes": "2023-02-08 14:43:43 +0800",
-      "minecraft:frozen_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:desert": "2023-02-08 14:43:43 +0800",
-      "minecraft:deep_frozen_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:windswept_forest": "2023-02-08 14:43:43 +0800",
-      "minecraft:jungle": "2023-02-08 14:43:43 +0800",
-      "minecraft:ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:old_growth_spruce_taiga": "2023-02-08 14:43:43 +0800",
-      "minecraft:snowy_beach": "2023-02-08 14:43:43 +0800",
-      "minecraft:windswept_savanna": "2023-02-08 14:43:43 +0800",
-      "minecraft:warm_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:deep_lukewarm_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:flower_forest": "2023-02-08 14:43:43 +0800",
-      "minecraft:frozen_peaks": "2023-02-08 14:43:43 +0800",
-      "minecraft:old_growth_birch_forest": "2023-02-08 14:43:43 +0800",
-      "minecraft:deep_dark": "2023-02-08 14:43:43 +0800",
-      "minecraft:meadow": "2023-02-08 14:43:43 +0800",
-      "minecraft:windswept_gravelly_hills": "2023-02-08 14:43:43 +0800",
-      "minecraft:savanna": "2023-02-08 14:43:43 +0800",
-      "minecraft:plains": "2023-01-04 08:52:50 +0800"
     },
     "done": true
   },
@@ -6520,12 +5702,6 @@
       "has_wood_slab": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_planks": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/obtain_disc_strad": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -6765,12 +5941,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:end/shulker_box": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2023-02-08 14:43:43 +0800",
@@ -6792,12 +5962,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/throw_egg_to_chicken": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2023-02-08 14:43:43 +0800",
@@ -6816,13 +5980,6 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -6941,12 +6098,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/kill_guardian": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2023-02-08 14:43:43 +0800",
@@ -6992,12 +6143,6 @@
     "criteria": {
       "has_white_wool": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/play_disc_strad": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -7133,23 +6278,10 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/obtain_disc_stal": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -7171,14 +6303,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_magenta_dye": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_red_dye": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -7256,13 +6380,6 @@
       "has_mushroom_stew": "2023-02-08 14:43:43 +0800",
       "has_bowl": "2023-02-08 14:43:43 +0800",
       "has_red_mushroom": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -7423,22 +6540,10 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/bred_turtles": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2023-01-04 08:53:10 +0800"
     },
     "done": true
   },
@@ -7628,26 +6733,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/elder_guardian_killer": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_cyan_dye": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2023-01-04 08:53:10 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2023-02-08 14:43:43 +0800",
@@ -7829,12 +6914,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:aquatic/get_turtle_helmet": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:nether/use_lodestone": {
     "criteria": {
       "use_lodestone": "2023-02-08 14:43:43 +0800"
@@ -7878,12 +6957,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_exposed_cut_copper": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/play_disc_pigstep": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -7957,12 +7030,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/obtain_disc_mall": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jack_o_lantern": {
     "criteria": {
       "has_carved_pumpkin": "2023-02-08 14:43:43 +0800",
@@ -8018,12 +7085,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/play_disc_chirp": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2023-02-08 14:43:43 +0800",
@@ -8042,12 +7103,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "in_water": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:collection/jukebox": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -8094,19 +7149,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/play_disc_5": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2023-02-08 14:43:43 +0800",
@@ -8142,12 +7184,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/shear_sheep": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2023-02-08 14:43:43 +0800",
@@ -8165,13 +7201,6 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -8221,13 +7250,6 @@
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
       "has_red_nether_bricks": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_wool": {
-    "criteria": {
-      "has_white_wool": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -8579,12 +7601,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:nether/better_armor": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_the_recipe": "2023-02-08 14:43:43 +0800",
@@ -8624,18 +7640,6 @@
     "criteria": {
       "has_light_blue_dye": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:end/disguise": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2023-01-04 08:53:10 +0800"
     },
     "done": true
   },
@@ -8784,12 +7788,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:collection/play_disc_blocks": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2023-02-08 14:43:43 +0800",
@@ -8815,22 +7813,6 @@
     "criteria": {
       "has_deepslate_tiles": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/biomes": {
-    "criteria": {
-      "minecraft:deep_cold_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:cold_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:frozen_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:frozen_river": "2023-02-08 14:43:43 +0800",
-      "minecraft:deep_frozen_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:deep_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:lukewarm_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:river": "2023-02-08 14:43:43 +0800",
-      "minecraft:warm_ocean": "2023-02-08 14:43:43 +0800",
-      "minecraft:deep_lukewarm_ocean": "2023-02-08 14:43:43 +0800"
     },
     "done": true
   },
@@ -8953,31 +7935,9 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/all_mob_heads": {
-    "criteria": {
-      "creeper_head": "2023-02-08 14:43:43 +0800",
-      "zombie_head": "2023-02-08 14:43:43 +0800",
-      "wither_skeleton_skull": "2023-02-08 14:43:43 +0800",
-      "skeleton_skull": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
       "has_cut_red_sandstone": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:aquatic/dolphin": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
     },
     "done": true
@@ -9008,37 +7968,10 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/all_wool": {
-    "criteria": {
-      "white_wool": "2023-02-08 14:43:43 +0800",
-      "yellow_wool": "2023-02-08 14:43:43 +0800",
-      "gray_wool": "2023-02-08 14:43:43 +0800",
-      "green_wool": "2023-02-08 14:43:43 +0800",
-      "blue_wool": "2023-02-08 14:43:43 +0800",
-      "light_gray_wool": "2023-02-08 14:43:43 +0800",
-      "magenta_wool": "2023-02-08 14:43:43 +0800",
-      "purple_wool": "2023-02-08 14:43:43 +0800",
-      "red_wool": "2023-02-08 14:43:43 +0800",
-      "light_blue_wool": "2023-02-08 14:43:43 +0800",
-      "lime_wool": "2023-02-08 14:43:43 +0800",
-      "black_wool": "2023-02-08 14:43:43 +0800",
-      "cyan_wool": "2023-02-08 14:43:43 +0800",
-      "brown_wool": "2023-02-08 14:43:43 +0800",
-      "pink_wool": "2023-02-08 14:43:43 +0800",
-      "orange_wool": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2023-02-08 14:43:43 +0800",
       "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2023-01-04 08:53:10 +0800"
     },
     "done": true
   },
@@ -9143,20 +8076,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:husbandry/mule": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
-    "criteria": {
-      "has_white_carpet": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800",
-      "has_yellow_dye": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2023-02-08 14:43:43 +0800",
@@ -9199,32 +8118,6 @@
     },
     "done": true
   },
-  "moreadvancementsmod:adventure/find_witch_hut": {
-    "criteria": {
-      "requirement": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "moreadvancementsmod:husbandry/all_horns": {
-    "criteria": {
-      "admire_horn": "2023-02-08 14:43:43 +0800",
-      "call_horn": "2023-02-08 14:43:43 +0800",
-      "sing_horn": "2023-02-08 14:43:43 +0800",
-      "seek_horn": "2023-02-08 14:43:43 +0800",
-      "dream_horn": "2023-02-08 14:43:43 +0800",
-      "feel_horn": "2023-02-08 14:43:43 +0800",
-      "ponder_horn": "2023-02-08 14:43:43 +0800",
-      "yearn_horn": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2023-02-08 14:43:43 +0800",
-      "has_the_recipe": "2023-02-08 14:43:43 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2023-02-08 14:43:43 +0800",
@@ -9239,5 +8132,23 @@
     },
     "done": true
   },
-  "DataVersion": 3218
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-06-18 19:31:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2023-06-18 19:34:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-06-18 19:31:17 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3463
 }

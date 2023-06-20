@@ -57,7 +57,7 @@
 			}
 		},
 		// Declares whether REI is visible.
-		"overlayVisible": false,
+		"overlayVisible": true,
 		"cheatingStyle": "GRAB",
 		"motion": {
 			"favoritesAnimation": true
