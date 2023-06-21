@@ -136,6 +136,7 @@ key_key.craftingtweaks.decompressAll:key.keyboard.unknown
 key_key.craftingtweaks.refill_last:key.keyboard.tab
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
+key_key.ecs.swap:key.keyboard.grave.accent
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.interactic.pickup_item:key.keyboard.unknown
 key_key.itemswapper.itemswitcher:key.keyboard.x
