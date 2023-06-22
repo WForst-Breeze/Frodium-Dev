@@ -8138,15 +8138,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/obtain_sniffer_egg": {
-    "criteria": {
-      "obtain_sniffer_egg": "2023-06-18 19:34:25 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2023-06-18 19:31:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_sniffer_egg": {
+    "criteria": {
+      "obtain_sniffer_egg": "2023-06-18 19:34:25 +0800"
     },
     "done": true
   },
